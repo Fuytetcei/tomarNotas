@@ -1,2 +1,2 @@
 # tomarNotas
-App de Android para tomar notas.
+App de Android para tomar notas
